@@ -36,6 +36,7 @@ Focusing on **Security, Schema Enforcement, and Minimal Data Movement.**
 ### 3. Serving Layer (Gold)
 - **Warehouse:** **BigQuery** using **External Tables**. Data remains in GCS but is queryable via SQL, significantly reducing costs by avoiding double storage.
 - **Security:** Implemented **Service Account Impersonation** and **Unity Catalog External Locations**—eliminating the need for local JSON credentials.
+> **Security Architecture Decision:** > I followed the official [Google Cloud Authentication Decision Tree](https://cloud.google.com/docs/authentication#auth-decision-tree) to implement the most secure authentication method for this environment. By choosing **Service Account Impersonation** over static JSON keys, I ensured that the pipeline adheres to the principle of "Least Privilege" and enterprise-grade security standards.
 
 ---
 
