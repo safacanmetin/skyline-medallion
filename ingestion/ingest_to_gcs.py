@@ -3,7 +3,6 @@ from google.cloud import storage
 import io
 from datetime import datetime
 
-# Ayarlar
 RAW_DATA_URL = "https://raw.githubusercontent.com/safacanmetin/skyline-medallion/refs/heads/main/xxx.csv"
 BUCKET_NAME = "skyline-landing-zone-marmaris"
 #KEY_PATH = "gcp-keys.json" //local json files are not secure anymore
