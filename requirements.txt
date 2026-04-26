@@ -1,0 +1,12 @@
+# GCP Services
+google-cloud-storage
+google-cloud-bigquery
+
+# Data Processing
+pandas
+pyspark
+db-dtypes
+
+# Visualization & UX
+streamlit
+altair

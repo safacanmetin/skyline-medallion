@@ -1,0 +1,7 @@
+.env
+*.json
+__pycache__/
+.streamlit/config.toml
+*.csv
+*.parquet
+.venv/
