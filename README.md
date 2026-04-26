@@ -47,7 +47,7 @@ Focusing on **Security, Schema Enforcement, and Minimal Data Movement.**
 <img width="414" height="531" alt="image" src="https://github.com/user-attachments/assets/1abe7718-fdfe-4e86-a12f-2f352d890994" />
 
 ### Infrastructure & Governance
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/5c517ed1-6054-4446-8dab-76c02e3f9174" />
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/0e81299d-ec5b-4a9c-bcb0-7f520aa62629" />
 
 ---
 
